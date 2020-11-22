@@ -6,7 +6,7 @@ Creating an HLAE style dolly cam inside overwatch with AHK
 ### Getting started
 
 * Install [AutoHotKey](https://www.autohotkey.com/)
-* Download Overwatch-Dolly.ahk from this repository
+* Download [Overwatch-Dolly.ahk](https://github.com/snkykun/Overwatch-Dolly/blob/main/Overwatch-Dolly.ahk) from this repository
 
 ### Using the Script
 
