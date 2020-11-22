@@ -1,7 +1,7 @@
 # Overwatch-Dolly
 Creating an HLAE style dolly cam inside overwatch with AHK
 
-![Image](https://snky.cc/sandycompetentferret-2/)
+![Image](https://raw.githubusercontent.com/snkykun/Overwatch-Dolly/main/SandyCompetentFerret.gif)
 
 ### Getting started
 
