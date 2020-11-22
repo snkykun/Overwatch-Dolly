@@ -2,7 +2,6 @@
 Creating an HLAE style dolly cam inside overwatch with AHK
 
 ![Image](https://raw.githubusercontent.com/snkykun/Overwatch-Dolly/main/images/Dolly.gif)
-
 ##### Disclaimer: Although Blizzard does not seem to care about users using AHK, use this at your own risk! I am not liable for any bans/suspensions resulting in you using this script.
 
 ### Getting started
