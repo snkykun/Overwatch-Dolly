@@ -22,4 +22,5 @@ Creating an HLAE style dolly cam inside overwatch with AHK
 * In order to get a smooth transition between camera points, the camera needs to move quite quickly. When playing a demo back, the camera speed seems too fast for 0.25x speed or sometimes even 0.5x speed. It is generally recommended to use 1.0x speed and slow it down in post using [Twixtor](https://revisionfx.com/products/twixtor/)
 
 
+![Image](https://github.com/snkykun/Overwatch-Dolly/blob/main/images/Dolly2.gif)
 ##### For any questions do not hesitate to dm me on twitter or join the [Overwatch Editing discord](https://discord.com/invite/EXuG82n)! 
