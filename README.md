@@ -20,3 +20,6 @@ Creating an HLAE style dolly cam inside overwatch with AHK
 * Simply changing the time inbetween key presses can help with fast camera movements
   > Every sequence will not look amazing right out of the box, you'll need to edit the `Sleep, (TIME IN MS)` inbetween the key presses. Sometimes having a longer first sleep cycle (I.E. press key 1, sleep for 300ms, press key 2, sleep for 120ms, etc) will yeild better results than the defaulted numbers.
 * In order to get a smooth transition between camera points, the camera needs to move quite quickly. When playing a demo back, the camera speed seems too fast for 0.25x speed or sometimes even 0.5x speed. It is generally recommended to use 1.0x speed and slow it down in post using [Twixtor](https://revisionfx.com/products/twixtor/)
+
+
+##### For any questions do not hesitate to dm me on twitter or join the [Overwatch Editing discord](https://discord.com/invite/EXuG82n)! 
