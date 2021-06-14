@@ -1,4 +1,4 @@
-# Overwatch-Dolly [![Discord](https://img.shields.io/discord/743941628020129853.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/XM93ZdB)
+# Overwatch-Dolly [![Discord](https://img.shields.io/discord/743941628020129853.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EXuG82n)
 Creating an HLAE style dolly cam inside overwatch with AHK
 
 ![Image](https://raw.githubusercontent.com/snkykun/Overwatch-Dolly/main/images/Dolly.gif)
